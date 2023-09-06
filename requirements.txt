@@ -1,0 +1,8 @@
+PyMySQL~=1.1.0
+pip~=23.2.1
+attrs~=23.1.0
+Jinja2~=3.1.2
+setuptools~=65.5.0
+platformdirs~=3.1.1
+Flask~=2.3.2
+Werkzeug~=2.3.6
